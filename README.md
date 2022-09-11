@@ -1,1 +1,1 @@
-# ML-Zoomcamp-2022-Assignments
+# ML-Zoomcamp-2022
